@@ -1,2 +1,8 @@
 # Notes
-Repository of notes from various subjects. 
+Repository of notes for various subjects. 
+
+For now, this will include:
+- Physics
+- Chemistry
+- Biology
+- Political Theory
