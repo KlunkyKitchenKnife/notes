@@ -1,2 +1,2 @@
-# notes
-Repository of notes from various subjects
+# Notes
+Repository of notes from various subjects. 
