@@ -17,10 +17,10 @@ Further, ["individually identifiable health information"](https://www.hhs.gov/hi
 Liability for Victims?
 
 Often the victims of fraud that results from the compromise of PHI are not held liable for these fraudalent actions. However, that doesn't mean they also still dont experience the opportunity cost of spending time and energy to manage these actions, nor does it negate the extraneous expenses that can occur. The following are examples of such indirect costs:
-- Lawyer fees: Varies depending on how long the case is and how experienced your lawyer is, but average rates sit at around $300/hr. For added context, some identity‑theft insurance products, like [Allstate Identity Protection](https://www.allstateidentityprotection.com/allstate-restoration-25k-summary-of-benefits) explicitly advertise coverage for attorney fees up to tens of thousands of dollars (e.g., $25,000–$100,000 caps) in serious cases, which is a signal that, in edge cases with litigation or criminal entanglement, legal fees can escalate very sharply. 
+- Lawyer fees: Varies depending on how long the case is and how experienced your lawyer is, but average rates sit at around $300/hr. For added context, some identity‑theft insurance products, like [Allstate Identity Protection](https://www.allstateidentityprotection.com/allstate-restoration-25k-summary-of-benefits), explicitly advertise coverage for attorney fees up to tens of thousands of dollars (e.g., $25,000–$100,000 caps) in serious cases, which is a signal that, in edge cases with litigation or criminal entanglement, legal fees can escalate very sharply. 
 - Travel (to courts, lawyers offices, providers/insurers)
 - Copying/postage: correcting insurance records often requires sending certified letters, dispute packets, and affidavits to providers, insurers, credit bureaus, and sometimes regulators. This is however not a very high cost compared to legal fees and time off work.
 - Credit repair services
 - Restoring insurance
 - Lost wages from missed work
-- Emotional and health impacts such as sstress, anxiety, sleep problems, depression, or PTSD-like symptoms
+- Emotional and health impacts such as stress, anxiety, sleep problems, depression, or PTSD-like symptoms
